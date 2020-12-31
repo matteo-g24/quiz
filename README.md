@@ -6,4 +6,4 @@ Developed in JavaScript using NPM module: you'll need to use the command __npm i
 **Hope you will enjoy it!**
 
 
-###### *(My first Github project, I hope not to mess too many things😂)*
+###### *(My first Github project, I wish not to mess too many things😂)*
